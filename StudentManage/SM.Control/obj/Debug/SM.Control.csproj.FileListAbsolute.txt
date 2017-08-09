@@ -1,0 +1,5 @@
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\bin\Debug\SM.Control.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\bin\Debug\SM.Control.pdb
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\obj\Debug\ResolveAssemblyReference.cache
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\obj\Debug\SM.Control.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\obj\Debug\SM.Control.pdb

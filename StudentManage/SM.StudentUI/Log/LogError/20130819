@@ -1,0 +1,475 @@
+
+异常时间：2013-08-19 07:57:28,635 [5] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 08:00:35,632 [5] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 08:01:08,353 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 08:20:50,768 [5] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 08:24:06,610 [5] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 08:24:34,631 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 08:25:04,658 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 08:26:23,300 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 08:27:05,988 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 08:28:13,981 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 08:50:18,559 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 08:51:30,877 [5] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 08:55:05,082 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 09:06:19,153 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 09:06:22,650 [5] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.InvalidCastException: 对象不能从 DBNull 转换为其他类型。
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 SM.BaseControls.DHelper.ToDateTime(Object obj) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 1039
+
+异常时间：2013-08-19 09:32:50,632 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 09:32:54,017 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.InvalidCastException: 对象不能从 DBNull 转换为其他类型。
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 SM.BaseControls.DHelper.ToDateTime(Object obj) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 1039
+
+异常时间：2013-08-19 09:33:26,536 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 09:33:29,298 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.InvalidCastException: 对象不能从 DBNull 转换为其他类型。
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 SM.BaseControls.DHelper.ToDateTime(Object obj) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 1039
+
+异常时间：2013-08-19 14:03:37,884 [4] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 14:03:43,085 [8] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.InvalidCastException: 对象不能从 DBNull 转换为其他类型。
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 SM.BaseControls.DHelper.ToDateTime(Object obj) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 1039
+
+异常时间：2013-08-19 14:06:53,178 [4] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 14:08:00,803 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 14:11:20,627 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 14:11:23,295 [4] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.InvalidCastException: 对象不能从 DBNull 转换为其他类型。
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 SM.BaseControls.DHelper.ToDateTime(Object obj) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 1039
+
+异常时间：2013-08-19 14:11:55,172 [8] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.InvalidCastException: 对象不能从 DBNull 转换为其他类型。
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 SM.BaseControls.DHelper.ToDateTime(Object obj) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 1039
+
+异常时间：2013-08-19 14:14:35,190 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 14:14:35,190 [4] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 14:14:49,027 [8] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.InvalidCastException: 对象不能从 DBNull 转换为其他类型。
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 SM.BaseControls.DHelper.ToDateTime(Object obj) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 1039
+
+异常时间：2013-08-19 14:15:01,202 [8] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 14:15:07,036 [11] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.InvalidCastException: 对象不能从 DBNull 转换为其他类型。
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 SM.BaseControls.DHelper.ToDateTime(Object obj) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 1039
+
+异常时间：2013-08-19 14:15:15,900 [8] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.InvalidCastException: 对象不能从 DBNull 转换为其他类型。
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 SM.BaseControls.DHelper.ToDateTime(Object obj) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 1039
+
+异常时间：2013-08-19 14:17:13,658 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 14:17:16,301 [11] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.InvalidCastException: 对象不能从 DBNull 转换为其他类型。
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 SM.BaseControls.DHelper.ToDateTime(Object obj) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 1039
+
+异常时间：2013-08-19 14:18:27,354 [10] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 14:18:30,727 [11] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.InvalidCastException: 对象不能从 DBNull 转换为其他类型。
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 SM.BaseControls.DHelper.ToDateTime(Object obj) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 1039
+
+异常时间：2013-08-19 14:19:24,856 [11] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 14:19:28,114 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.InvalidCastException: 对象不能从 DBNull 转换为其他类型。
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 SM.BaseControls.DHelper.ToDateTime(Object obj) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 1039
+
+异常时间：2013-08-19 14:19:34,310 [10] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.InvalidCastException: 对象不能从 DBNull 转换为其他类型。
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 SM.BaseControls.DHelper.ToDateTime(Object obj) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 1039
+
+异常时间：2013-08-19 14:19:40,071 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 14:19:43,358 [11] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.InvalidCastException: 对象不能从 DBNull 转换为其他类型。
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 SM.BaseControls.DHelper.ToDateTime(Object obj) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 1039
+
+异常时间：2013-08-19 14:19:50,740 [10] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.InvalidCastException: 对象不能从 DBNull 转换为其他类型。
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 SM.BaseControls.DHelper.ToDateTime(Object obj) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 1039
+
+异常时间：2013-08-19 14:20:38,119 [11] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 14:22:39,504 [10] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 14:22:53,110 [8] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 14:23:03,084 [4] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.InvalidCastException: 对象不能从 DBNull 转换为其他类型。
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 SM.BaseControls.DHelper.ToDateTime(Object obj) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 1039
+
+异常时间：2013-08-19 14:23:52,693 [10] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 15:58:25,694 [21] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 795
+
+异常时间：2013-08-19 15:58:28,128 [21] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.InvalidCastException: 对象不能从 DBNull 转换为其他类型。
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 SM.BaseControls.DHelper.ToDateTime(Object obj) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 1039

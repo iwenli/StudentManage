@@ -1,0 +1,116 @@
+D:\My Documents\Desktop\QQ2013源码\CC2013\bin\Debug\SM.ManageUI.exe.config
+D:\My Documents\Desktop\QQ2013源码\CC2013\bin\Debug\SM.ManageUI.exe
+D:\My Documents\Desktop\QQ2013源码\CC2013\bin\Debug\SM.ManageUI.pdb
+D:\My Documents\Desktop\QQ2013源码\CC2013\bin\Debug\SkinForm.pdb
+D:\My Documents\Desktop\QQ2013源码\CC2013\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Desktop\QQ2013源码\CC2013\obj\x86\Debug\SM.ManageUI.FrmInformation.resources
+D:\My Documents\Desktop\QQ2013源码\CC2013\obj\x86\Debug\SM.ManageUI.FrmLogin.resources
+D:\My Documents\Desktop\QQ2013源码\CC2013\obj\x86\Debug\SM.ManageUI.Properties.Resources.resources
+D:\My Documents\Desktop\QQ2013源码\CC2013\obj\x86\Debug\SM.ManageUI.FrmUserInformation.resources
+D:\My Documents\Desktop\QQ2013源码\CC2013\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My Documents\Desktop\QQ2013源码\CC2013\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Desktop\QQ2013源码\CC2013\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My Documents\Desktop\QQ2013源码\CC2013\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Documents\Desktop\QQ2013源码\CC2013\obj\x86\Debug\SM.ManageUI.exe
+D:\My Documents\Desktop\QQ2013源码\CC2013\obj\x86\Debug\SM.ManageUI.pdb
+D:\My Documents\Desktop\QQ2013源码\SM.ManageUI\bin\Debug\SM.ManageUI.exe.config
+D:\My Documents\Desktop\QQ2013源码\SM.ManageUI\obj\x86\Debug\SM.ManageUI.exe
+D:\My Documents\Desktop\QQ2013源码\SM.ManageUI\obj\x86\Debug\SM.ManageUI.pdb
+D:\My Documents\Desktop\QQ2013源码\SM.ManageUI\bin\Debug\SM.ManageUI.exe
+D:\My Documents\Desktop\QQ2013源码\SM.ManageUI\bin\Debug\SM.ManageUI.pdb
+D:\My Documents\Desktop\QQ2013源码\SM.ManageUI\bin\Debug\SkinForm.pdb
+D:\My Documents\Desktop\QQ2013源码\SM.ManageUI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Desktop\QQ2013源码\SM.ManageUI\obj\x86\Debug\SM.ManageUI.FrmInformation.resources
+D:\My Documents\Desktop\QQ2013源码\SM.ManageUI\obj\x86\Debug\SM.ManageUI.FrmLogin.resources
+D:\My Documents\Desktop\QQ2013源码\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Properties.Resources.resources
+D:\My Documents\Desktop\QQ2013源码\SM.ManageUI\obj\x86\Debug\SM.ManageUI.FrmUserInformation.resources
+D:\My Documents\Desktop\QQ2013源码\SM.ManageUI\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My Documents\Desktop\QQ2013源码\SM.ManageUI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Desktop\QQ2013源码\SM.ManageUI\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My Documents\Desktop\QQ2013源码\SM.ManageUI\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\SM.ManageUI.exe
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\SM.ManageUI.pdb
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\System.Data.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\System.Deployment.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\System.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\System.Drawing.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\System.EnterpriseServices.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\System.Runtime.Remoting.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\System.Web.Services.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\System.Windows.Forms.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\System.XML.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Button.resources
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Forms.MainForm.resources
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.FrmPopup.resources
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.FrmLogin.resources
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.MainWin.resources
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Properties.Resources.resources
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.FrmBox.resources
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.exe
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.pdb
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\SM.Base.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\SM.BaseControls.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\log4net.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\SM.Base.pdb
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\SM.BaseControls.pdb
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Form1.resources
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Menu1.resources
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Menu2.resources
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Menu3.resources
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Menu4.resources
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Menu9.resources
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Menu5.resources
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Menu6.resources
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Menu7.resources
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Menu8.resources
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\ControlExs.pdb
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.CopyrightFrm.resources
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Form2.resources
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\config\SM_SQL_CONFIG.ini
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Menu10.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.exe
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.pdb
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\config\SM_SQL_CONFIG.ini
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\SM.ManageUI.exe
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\SM.ManageUI.pdb
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\SM.Base.dll
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\SM.BaseControls.dll
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\System.Data.dll
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\System.Deployment.dll
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\System.dll
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\System.Drawing.dll
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\System.EnterpriseServices.dll
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\System.Runtime.Remoting.dll
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\System.Web.Services.dll
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\System.Windows.Forms.dll
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\System.Xml.dll
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\System.Core.dll
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\log4net.dll
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\SM.Base.pdb
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\SM.BaseControls.pdb
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\bin\Debug\ControlExs.pdb
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.csprojResolveAssemblyReference.cache
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Form1.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Menu10.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.CopyrightFrm.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Form2.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.FrmBox.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Button.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Menu1.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Menu2.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Menu3.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Menu4.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Menu9.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Menu5.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Menu6.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Menu7.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Controls.Menu8.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Forms.MainForm.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.FrmPopup.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.FrmLogin.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.MainWin.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.Properties.Resources.resources
+E:\1开发\编码\doNet\0.myself\学生信息管理平台\work\StudentManage\SM.ManageUI\obj\x86\Debug\SM.ManageUI.csproj.GenerateResource.Cache

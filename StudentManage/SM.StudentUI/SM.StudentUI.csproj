@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E4070F87-C046-4071-A337-7EC2F0BA82E9}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SM.StudentUI</RootNamespace>
+    <AssemblyName>SM.StudentUI</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FineUI">
+      <HintPath>..\..\..\..\NET开源框架\FineUI\FineUI_V3.2.6\FineUI.Examples\Bin\FineUI.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\..\NET开源框架\extAspNet\ExtAspNet_v3.1.9_source_all\ExtAspNet.Examples\bin\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Wilco.SyntaxHighlighter">
+      <HintPath>..\..\..\..\NET开源框架\FineUI\FineUI_V3.2.6\FineUI.Examples\Bin\Wilco.SyntaxHighlighter.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="css\default.css" />
+    <Content Include="css\main.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="page\ChangePwd.aspx" />
+    <Content Include="page\common\menu.xml" />
+    <Content Include="page\common\source.aspx" />
+    <Content Include="page\common\source_file.aspx" />
+    <Content Include="page\FindPwd.aspx" />
+    <Content Include="page\help.htm" />
+    <Content Include="page\images\bg.jpg" />
+    <Content Include="page\Main.aspx" />
+    <Content Include="page\images\16\1.png" />
+    <Content Include="page\images\16\10.png" />
+    <Content Include="page\images\16\11.png" />
+    <Content Include="page\images\16\12.png" />
+    <Content Include="page\images\16\13.png" />
+    <Content Include="page\images\16\14.png" />
+    <Content Include="page\images\16\15.png" />
+    <Content Include="page\images\16\16.png" />
+    <Content Include="page\images\16\17.png" />
+    <Content Include="page\images\16\18.png" />
+    <Content Include="page\images\16\19.png" />
+    <Content Include="page\images\16\2.png" />
+    <Content Include="page\images\16\20.png" />
+    <Content Include="page\images\16\21.png" />
+    <Content Include="page\images\16\23.png" />
+    <Content Include="page\images\16\24.png" />
+    <Content Include="page\images\16\25.png" />
+    <Content Include="page\images\16\3.png" />
+    <Content Include="page\images\16\4.png" />
+    <Content Include="page\images\16\5.png" />
+    <Content Include="page\images\16\6.png" />
+    <Content Include="page\images\16\7.png" />
+    <Content Include="page\images\16\8.png" />
+    <Content Include="page\images\16\9.png" />
+    <Content Include="page\images\blank.png" />
+    <Content Include="page\images\bs-docs-masthead-pattern.png" />
+    <Content Include="page\images\china.gif" />
+    <Content Include="page\images\class.gif" />
+    <Content Include="page\images\cmp.gif" />
+    <Content Include="page\images\code.gif" />
+    <Content Include="page\images\collapse-all.gif" />
+    <Content Include="page\images\comment.gif" />
+    <Content Include="page\images\delete.png" />
+    <Content Include="page\images\delete_disabled.png" />
+    <Content Include="page\images\diamond-black.gif" />
+    <Content Include="page\images\enable_gzip_iis6_1.png" />
+    <Content Include="page\images\enable_gzip_iis6_2.png" />
+    <Content Include="page\images\enable_gzip_iis6_3.png" />
+    <Content Include="page\images\enable_gzip_iis6_4.png" />
+    <Content Include="page\images\enable_gzip_iis6_5.png" />
+    <Content Include="page\images\expand-all.gif" />
+    <Content Include="page\images\filetype\vs_ascx.png" />
+    <Content Include="page\images\filetype\vs_ashx.png" />
+    <Content Include="page\images\filetype\vs_aspx.png" />
+    <Content Include="page\images\filetype\vs_config.png" />
+    <Content Include="page\images\filetype\vs_cs.png" />
+    <Content Include="page\images\filetype\vs_css.png" />
+    <Content Include="page\images\filetype\vs_htm.png" />
+    <Content Include="page\images\filetype\vs_html.png" />
+    <Content Include="page\images\filetype\vs_img.png" />
+    <Content Include="page\images\filetype\vs_js.png" />
+    <Content Include="page\images\filetype\vs_sitemap.png" />
+    <Content Include="page\images\filetype\vs_txt.png" />
+    <Content Include="page\images\filetype\vs_unknow.png" />
+    <Content Include="page\images\filetype\vs_usercontrol.png" />
+    <Content Include="page\images\filetype\vs_vb.png" />
+    <Content Include="page\images\filetype\vs_xml.png" />
+    <Content Include="page\images\icons.gif" />
+    <Content Include="page\images\ico_24_grsz.gif" />
+    <Content Include="page\images\logo\favicon.gif" />
+    <Content Include="page\images\logo\favicon.ico" />
+    <Content Include="page\images\logo\favicon.png" />
+    <Content Include="page\images\logo\logo.png" />
+    <Content Include="page\images\logo\logo2.gif" />
+    <Content Include="page\images\logo\logo3.png" />
+    <Content Include="page\images\logo\logo3_old.gif" />
+    <Content Include="page\images\logo\logo_old.gif" />
+    <Content Include="page\images\love.jpg" />
+    <Content Include="page\images\nav_hover_highlight_2.gif" />
+    <Content Include="page\images\no_data_found.jpg" />
+    <Content Include="page\images\pagemenu-separator.gif" />
+    <Content Include="page\images\pagemenu_toolbar_background.gif" />
+    <Content Include="page\images\pkg.gif" />
+    <Content Include="page\images\snapshot\cascade_window.jpg" />
+    <Content Include="page\images\success.png" />
+    <Content Include="page\images\toolbox.png" />
+    <Content Include="page\images\ui-anim_basic_16x16.gif" />
+    <Content Include="page\js\default.js" />
+    <Content Include="page\Login.aspx" />
+    <Content Include="page\WebForm1.aspx" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Default.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="page\Captcha\captcha.ashx.cs">
+      <DependentUpon>captcha.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="page\Captcha\CaptchaImage.cs" />
+    <Compile Include="page\ChangePwd.aspx.cs">
+      <DependentUpon>ChangePwd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="page\ChangePwd.aspx.designer.cs">
+      <DependentUpon>ChangePwd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="page\code\PageBase.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="page\common\source.aspx.cs">
+      <DependentUpon>source.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="page\common\source.aspx.designer.cs">
+      <DependentUpon>source.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="page\common\source_file.aspx.cs">
+      <DependentUpon>source_file.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="page\common\source_file.aspx.designer.cs">
+      <DependentUpon>source_file.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="page\FindPwd.aspx.cs">
+      <DependentUpon>FindPwd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="page\FindPwd.aspx.designer.cs">
+      <DependentUpon>FindPwd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="page\Main.aspx.cs">
+      <DependentUpon>Main.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="page\Main.aspx.designer.cs">
+      <DependentUpon>Main.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="page\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="page\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="page\WebForm1.aspx.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="page\WebForm1.aspx.designer.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SM.base\SM.Base.csproj">
+      <Project>{2F49A3F8-6DA0-44E7-B613-8AAB131238B1}</Project>
+      <Name>SM.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SM.Control\SM.BaseControls.csproj">
+      <Project>{17EAD729-849C-4EA5-B77D-CFED72EC4992}</Project>
+      <Name>SM.BaseControls</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="log.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="page\Captcha\captcha.ashx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="page\images\logo\logo.psd" />
+    <None Include="page\images\logo\logo_127.psd" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>1363</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

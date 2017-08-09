@@ -1,0 +1,4 @@
+Form f = new Form()
+f.TopLevel=false;
+f.Visible=true;
+this.Panel.Controls.Add(f); 

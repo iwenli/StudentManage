@@ -1,0 +1,498 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3F8A866D-EB38-4CD1-AC4F-27420ED21669}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SM.ManageUI</RootNamespace>
+    <AssemblyName>SM.ManageUI</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>SM.ManageUI.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ControlExs">
+      <HintPath>D:\My Documents\Desktop\C#自定义控件库\Demo\bin\Debug\ControlExs.dll</HintPath>
+    </Reference>
+    <Reference Include="SkinForm, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SkinForm.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.EnterpriseServices">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Remoting">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Services">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.XML">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForms\Controls\Menu10.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainForms\Controls\Menu10.Designer.cs">
+      <DependentUpon>Menu10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MinForms\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MinForms\Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MinForms\CopyrightFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MinForms\CopyrightFrm.designer.cs">
+      <DependentUpon>CopyrightFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MinForms\FrmBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MinForms\FrmBox.designer.cs">
+      <DependentUpon>FrmBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForms\Code\Shared.cs" />
+    <Compile Include="MainForms\Code\Win32.cs" />
+    <Compile Include="MainForms\Controls\Button.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainForms\Controls\CommandButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainForms\Controls\panel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MainForms\Controls\Menu1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainForms\Controls\Menu1.Designer.cs">
+      <DependentUpon>Menu1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForms\Controls\Menu2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainForms\Controls\Menu2.Designer.cs">
+      <DependentUpon>Menu2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForms\Controls\Menu3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainForms\Controls\Menu3.Designer.cs">
+      <DependentUpon>Menu3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForms\Controls\Menu4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainForms\Controls\Menu4.Designer.cs">
+      <DependentUpon>Menu4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForms\Controls\Menu9.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainForms\Controls\Menu9.Designer.cs">
+      <DependentUpon>Menu9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForms\Controls\Menu5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainForms\Controls\Menu5.Designer.cs">
+      <DependentUpon>Menu5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForms\Controls\Menu6.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainForms\Controls\Menu6.Designer.cs">
+      <DependentUpon>Menu6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForms\Controls\Menu7.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainForms\Controls\Menu7.Designer.cs">
+      <DependentUpon>Menu7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForms\Controls\Menu8.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainForms\Controls\Menu8.Designer.cs">
+      <DependentUpon>Menu8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForms\Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForms\Forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MinForms\FrmPopup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MinForms\FrmPopup.Designer.cs">
+      <DependentUpon>FrmPopup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForms\MainWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForms\MainWin.designer.cs">
+      <DependentUpon>MainWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserList.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\Controls\Menu10.resx">
+      <DependentUpon>Menu10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MinForms\CopyrightFrm.resx">
+      <DependentUpon>CopyrightFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MinForms\Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MinForms\FrmBox.resx">
+      <DependentUpon>FrmBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\Controls\Button.resx">
+      <DependentUpon>Button.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\Controls\Menu1.resx">
+      <DependentUpon>Menu1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\Controls\Menu2.resx">
+      <DependentUpon>Menu2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\Controls\Menu3.resx">
+      <DependentUpon>Menu3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\Controls\Menu4.resx">
+      <DependentUpon>Menu4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\Controls\Menu9.resx">
+      <DependentUpon>Menu9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\Controls\Menu5.resx">
+      <DependentUpon>Menu5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\Controls\Menu6.resx">
+      <DependentUpon>Menu6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\Controls\Menu7.resx">
+      <DependentUpon>Menu7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\Controls\Menu8.resx">
+      <DependentUpon>Menu8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\Forms\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MinForms\FrmPopup.resx">
+      <DependentUpon>FrmPopup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\MainWin.resx">
+      <DependentUpon>MainWin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Content Include="log.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AIO_SetBtn_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AIO_SetBtn_highlight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AIO_SetBtn_highlight_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AIO_SetBtn_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_close_disable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_close_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_close_highlight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_max_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_max_highlight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_max_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_mini_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_mini_highlight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_mini_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_restore_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_restore_highlight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_restore_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_Skin_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_Skin_highlight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_Skin_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainWin\Button\CloseBtn.psd" />
+    <None Include="Resources\MainWin\Button\MaxBtn.psd" />
+    <None Include="Resources\MainWin\Button\MinBtn.psd" />
+    <None Include="Resources\MainWin\Button\RestrBtn.psd" />
+    <None Include="Resources\MainWin\Button\SetBtn.psd" />
+    <None Include="Resources\studentControl\head.psd" />
+    <None Include="Resources\texture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\corner_back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\corner_back_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\corner_back_press.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_set_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_set_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_set_press.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo.ico" />
+    <EmbeddedResource Include="Resources\jpg\copyright_bg.jpg" />
+    <Content Include="Resources\litlePng\close.png" />
+    <Content Include="Resources\litlePng\exit_wirte_bg.png" />
+    <Content Include="Resources\litlePng\exit_wirte_bg_down.png" />
+    <Content Include="Resources\litlePng\hide.png" />
+    <Content Include="Resources\litlePng\show.png" />
+    <Content Include="Resources\logo\logo.ico" />
+    <Content Include="Resources\logo\niICO.ico" />
+    <EmbeddedResource Include="Resources\MainWin\Border\body.png" />
+    <EmbeddedResource Include="Resources\MainWin\Menu\1.png" />
+    <EmbeddedResource Include="Resources\MainWin\Menu\10.png" />
+    <EmbeddedResource Include="Resources\MainWin\Menu\2.png" />
+    <EmbeddedResource Include="Resources\MainWin\Menu\3.png" />
+    <EmbeddedResource Include="Resources\MainWin\Menu\4.png" />
+    <EmbeddedResource Include="Resources\MainWin\Menu\5.png" />
+    <EmbeddedResource Include="Resources\MainWin\Menu\6.png" />
+    <EmbeddedResource Include="Resources\MainWin\Menu\7.png" />
+    <EmbeddedResource Include="Resources\MainWin\Menu\8.png" />
+    <EmbeddedResource Include="Resources\MainWin\Menu\9.png" />
+    <Content Include="Resources\studentControl\head.png" />
+    <Content Include="Resources\warn\1.png" />
+    <Content Include="Resources\warn\10.png" />
+    <Content Include="Resources\warn\11.png" />
+    <Content Include="Resources\warn\12.png" />
+    <Content Include="Resources\warn\13.png" />
+    <Content Include="Resources\warn\14.png" />
+    <Content Include="Resources\warn\15.png" />
+    <Content Include="Resources\warn\16.png" />
+    <Content Include="Resources\warn\2.png" />
+    <Content Include="Resources\warn\3.png" />
+    <Content Include="Resources\warn\4.png" />
+    <Content Include="Resources\warn\5.png" />
+    <Content Include="Resources\warn\6.png" />
+    <Content Include="Resources\warn\7.png" />
+    <Content Include="Resources\warn\8.png" />
+    <Content Include="Resources\warn\9.png" />
+    <None Include="Resources\BoxBack.jpg" />
+    <EmbeddedResource Include="Resources\MainWin\Border\border.png" />
+    <EmbeddedResource Include="Resources\MainWin\Border\bottom_bg.png" />
+    <EmbeddedResource Include="Resources\MainWin\Border\bottom_left.png" />
+    <EmbeddedResource Include="Resources\MainWin\Border\bottom_right.png" />
+    <EmbeddedResource Include="Resources\MainWin\Border\bottom_title.png" />
+    <EmbeddedResource Include="Resources\MainWin\Border\top_bg.png" />
+    <EmbeddedResource Include="Resources\MainWin\Border\top_bg_left.png" />
+    <EmbeddedResource Include="Resources\MainWin\Border\top_bg_right.png" />
+    <EmbeddedResource Include="Resources\MainWin\Border\top_bg_right_logo.png" />
+    <EmbeddedResource Include="Resources\MainWin\Button\CloseBtn.png" />
+    <EmbeddedResource Include="Resources\MainWin\Button\MaxBtn.png" />
+    <EmbeddedResource Include="Resources\MainWin\Button\MinBtn.png" />
+    <EmbeddedResource Include="Resources\MainWin\Button\RestrBtn.png" />
+    <EmbeddedResource Include="Resources\MainWin\Button\SetBtn.png" />
+    <EmbeddedResource Include="Resources\MainWin\Transparent.png" />
+    <None Include="Resources\infoBg.jpg" />
+    <Content Include="Resources\bg.png" />
+    <None Include="Resources\btnSandeng.NormlBack.png" />
+    <None Include="Resources\btnSandeng.MouseBack.png" />
+    <None Include="Resources\btnSandeng.DownBack.png" />
+    <None Include="Resources\button_login_normal.png" />
+    <None Include="Resources\button_login_hover.png" />
+    <None Include="Resources\button_login_down.png" />
+    <None Include="Resources\BackPalace.png" />
+    <None Include="Resources\checkbox_tick_pushed.png" />
+    <None Include="Resources\checkbox_tick_normal.png" />
+    <None Include="Resources\checkbox_tick_highlight.png" />
+    <None Include="Resources\checkbox_pushed.png" />
+    <None Include="Resources\checkbox_hightlight.png" />
+    <None Include="Resources\checkbox_normal.png" />
+    <None Include="Resources\imgRjp.BackgroundImage.png" />
+    <None Include="Resources\login_inputbtn_highlight.png" />
+    <None Include="Resources\login_inputbtn_down.png" />
+    <None Include="Resources\login_inputbtn_normal.png" />
+    <None Include="Resources\spin_normal_down.png" />
+    <None Include="Resources\frameBorderEffect_normalDraw.png" />
+    <None Include="Resources\frameBorderEffect_mouseDownDraw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SM.base\SM.Base.csproj">
+      <Project>{2F49A3F8-6DA0-44E7-B613-8AAB131238B1}</Project>
+      <Name>SM.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SM.Control\SM.BaseControls.csproj">
+      <Project>{17EAD729-849C-4EA5-B77D-CFED72EC4992}</Project>
+      <Name>SM.BaseControls</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,549 @@
+
+异常时间：2013-08-18 07:56:53,874 [4] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 791
+
+异常时间：2013-08-18 07:59:11,755 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 791
+
+异常时间：2013-08-18 08:06:50,317 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 791
+
+异常时间：2013-08-18 08:08:26,261 [8] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 791
+
+异常时间：2013-08-18 08:11:30,227 [8] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 791
+
+异常时间：2013-08-18 08:16:10,933 [8] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 791
+
+异常时间：2013-08-18 08:17:12,330 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 791
+
+异常时间：2013-08-18 08:18:51,541 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 791
+
+异常时间：2013-08-18 08:38:11,226 [8] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 791
+
+异常时间：2013-08-18 08:38:48,272 [4] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 791
+
+异常时间：2013-08-18 09:06:53,237 [8] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 16:28:12,874 [8] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 16:30:50,138 [10] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 16:31:14,018 [10] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 16:33:12,044 [10] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 16:35:03,751 [8] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 16:37:48,845 [10] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 16:39:04,088 [8] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 16:49:04,594 [4] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 16:49:56,891 [12] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 16:55:11,089 [11] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:14:33,531 [4] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:15:19,470 [11] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:18:08,246 [12] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:27:10,001 [4] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:29:36,702 [4] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:32:13,809 [12] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:34:02,668 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:34:21,232 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:35:16,016 [12] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:36:23,222 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:38:06,008 [12] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:38:23,097 [12] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:39:44,875 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:40:32,933 [12] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:40:53,696 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:41:57,482 [12] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:43:05,350 [11] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:44:07,780 [12] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:44:48,480 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:45:35,527 [12] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:47:11,613 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:48:14,559 [12] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:49:12,791 [12] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:50:43,086 [12] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:51:02,783 [12] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:55:34,903 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 17:56:15,554 [12] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 18:12:54,972 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 18:28:19,281 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 20:24:12,959 [4] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 20:29:11,552 [11] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 20:32:16,597 [11] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 20:42:00,237 [11] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 20:42:14,219 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 20:43:19,584 [4] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 20:45:28,311 [11] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 20:55:04,915 [9] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 20:56:16,339 [11] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 21:05:58,570 [11] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790
+
+异常时间：2013-08-18 21:33:10,361 [11] 
+异常级别：ERROR 
+异 常 类：logError [(null)] 
+
+服务器运行错误; 
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SM.BaseControls.DHelper.GetStrSession(String name) 位置 G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\util\DHelper.cs:行号 790

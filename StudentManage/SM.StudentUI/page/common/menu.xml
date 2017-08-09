@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tree>
+    <TreeNode Text="个人基本信息" SingleClickExpand="true">
+        <TreeNode Text="基本信息" NavigateUrl="~/config/release_history.txt">
+        </TreeNode>
+        <TreeNode Text="社会关系" NavigateUrl="~/config/release_time_chart.htm" >
+        </TreeNode>
+        <TreeNode Text="党团信息" NavigateUrl="~/config/modify_webconfig.htm" >
+        </TreeNode>
+        <TreeNode Text="贫困信息" NavigateUrl="~/config/icons.htm" >
+        </TreeNode>
+    </TreeNode>
+    <TreeNode Text="个人学业信息" SingleClickExpand="true">
+        <TreeNode Text="学习成绩查看" NavigateUrl="~/basic/hello.aspx" >
+        </TreeNode>
+        <TreeNode Text="奖惩信息查看" NavigateUrl="~/basic/hello_aspnet.aspx">
+        </TreeNode>
+        <TreeNode Text="参加活动记录查看" NavigateUrl="Login.aspx" >
+        </TreeNode>
+    </TreeNode>
+</Tree>

@@ -1,0 +1,16 @@
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.StudentUI\bin\SM.StudentUI.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.StudentUI\bin\SM.StudentUI.pdb
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.StudentUI\bin\FineUI.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.StudentUI\bin\Newtonsoft.Json.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.StudentUI\bin\SM.Base.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.StudentUI\bin\SM.BaseControls.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.StudentUI\bin\Wilco.SyntaxHighlighter.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.StudentUI\bin\log4net.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.StudentUI\bin\SM.Base.pdb
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.StudentUI\bin\SM.BaseControls.pdb
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.StudentUI\bin\FineUI.pdb
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.StudentUI\bin\FineUI.xml
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.StudentUI\bin\Newtonsoft.Json.xml
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.StudentUI\obj\Release\ResolveAssemblyReference.cache
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.StudentUI\obj\Release\SM.StudentUI.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.StudentUI\obj\Release\SM.StudentUI.pdb

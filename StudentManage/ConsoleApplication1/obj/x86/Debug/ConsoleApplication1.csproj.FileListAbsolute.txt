@@ -1,0 +1,9 @@
+G:\Net开发\学生信息管理平台\work\StudentManage\ConsoleApplication1\bin\Debug\config\SM_SQL_CONFIG.ini
+G:\Net开发\学生信息管理平台\work\StudentManage\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\Net开发\学生信息管理平台\work\StudentManage\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\Net开发\学生信息管理平台\work\StudentManage\ConsoleApplication1\bin\Debug\SM.BaseControls.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\ConsoleApplication1\bin\Debug\log4net.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\ConsoleApplication1\bin\Debug\SM.BaseControls.pdb
+G:\Net开发\学生信息管理平台\work\StudentManage\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Net开发\学生信息管理平台\work\StudentManage\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+G:\Net开发\学生信息管理平台\work\StudentManage\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

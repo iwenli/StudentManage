@@ -1,0 +1,7 @@
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\bin\Release\SM.BaseControls.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\bin\Release\SM.BaseControls.pdb
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\bin\Release\log4net.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\bin\Release\System.Core.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\obj\Release\ResolveAssemblyReference.cache
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\obj\Release\SM.BaseControls.dll
+G:\Net开发\学生信息管理平台\work\StudentManage\SM.Control\obj\Release\SM.BaseControls.pdb
